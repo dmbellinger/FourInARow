@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment 2</string>
+    <string name="welcome_text">Welcome to Four in a Row!
+
+        Connect four dots in a row before your opponent does!
+
+        Enter your name and Tap the Start Button to begin</string>
+    <string name="start">Start</string>
+    <string name="message_hint">Enter your name</string>
+    <string name="next">Next</string>
+    <string name="encrypt_text">Here is your encrypted message:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
